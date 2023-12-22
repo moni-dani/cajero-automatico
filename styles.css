@@ -1,0 +1,26 @@
+body {
+
+    background-color: #20c997;;
+
+
+  }
+  
+  #app {
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+
+h1 {
+align-items: center;
+
+}
+
+
+.bg-success {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+}
